@@ -42,7 +42,7 @@ behavioral and two fundamentals design patterns as follow:
 > previous design patterns.
 ### UML Class Diagram
 ![image](https://raw.githubusercontent.com/MuhammadElkotb/Email-Service-Web-App/main/UML%20Diagram.jpg?token=AROV7J5FGTKFSFQR2SYXKO3B24AFQ)
-+ Link for higher resolution: `https://miro.com/app/board/uXjVOY1Lgd8=/?invite_link_id=126737987619`
++ [Link for higher resolution](https://miro.com/app/board/uXjVOY1Lgd8=/?invite_link_id=126737987619)
 ## Design Decisions
 + Apply the MVC architecture in the design, as we have a model for the data, which we received from the clients, 
 a controller to manage all the business logic and data manipulation and a view represented in the front end(Angular) to show the data after performing any kind of operations on it to the clients.
