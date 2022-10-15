@@ -16,7 +16,7 @@
 ### Table of Used Design Patterns
 |        **Design Patterns**        |
 | :-------------------------------: |
-|        `Singelton Pattern`        |
+|        `Singleton Pattern`        |
 |         `Builder Pattern`         |
 |          `Filter Pattern`         |
 | `Chain of responsibility Pattern` |
